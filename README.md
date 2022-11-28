@@ -30,7 +30,7 @@ ONU is the biggest organisation for decisions. In this plugin, adminstrators can
 In this organisation your role is to keep peace and stabe world economy.
 Geopolitics is important and you have to know how resolve conflicts between alliances or nations.
 
-##GUI
+## GUI
 - GUI for your nation (citizens or chief)
 - GUI for local shop (sell, buy, etc...)
 - GUI for world shop (sell, buy, etc...)
