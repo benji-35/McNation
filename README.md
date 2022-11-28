@@ -1,0 +1,2 @@
+# McNation
+Minecraft Nation plugin
